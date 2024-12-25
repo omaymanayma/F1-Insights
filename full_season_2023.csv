@@ -1,0 +1,441 @@
+Position,Driver,Constructor,Time,Points,Cumulative Points,Race
+1,Max Verstappen,Red Bull,1:27:02.624,26,0,Abu Dhabi Grand Prix
+2,Charles Leclerc,Ferrari,+17.993,18,0,Abu Dhabi Grand Prix
+3,George Russell,Mercedes,+20.328,15,0,Abu Dhabi Grand Prix
+4,Sergio Pérez,Red Bull,+21.453,12,0,Abu Dhabi Grand Prix
+5,Lando Norris,McLaren,+24.284,10,0,Abu Dhabi Grand Prix
+6,Oscar Piastri,McLaren,+31.487,8,0,Abu Dhabi Grand Prix
+7,Fernando Alonso,Aston Martin,+39.512,6,0,Abu Dhabi Grand Prix
+8,Yuki Tsunoda,AlphaTauri,+43.088,4,0,Abu Dhabi Grand Prix
+9,Lewis Hamilton,Mercedes,+44.424,2,0,Abu Dhabi Grand Prix
+10,Lance Stroll,Aston Martin,+55.632,1,0,Abu Dhabi Grand Prix
+11,Daniel Ricciardo,AlphaTauri,+56.229,0,0,Abu Dhabi Grand Prix
+12,Esteban Ocon,Alpine F1 Team,+1:06.373,0,0,Abu Dhabi Grand Prix
+13,Pierre Gasly,Alpine F1 Team,+1:10.360,0,0,Abu Dhabi Grand Prix
+14,Alexander Albon,Williams,+1:13.184,0,0,Abu Dhabi Grand Prix
+15,Nico Hülkenberg,Haas F1 Team,+1:23.696,0,0,Abu Dhabi Grand Prix
+16,Logan Sargeant,Williams,+1:27.791,0,0,Abu Dhabi Grand Prix
+17,Guanyu Zhou,Alfa Romeo,+1:29.422,0,0,Abu Dhabi Grand Prix
+18,Carlos Sainz,Ferrari,,0,0,Abu Dhabi Grand Prix
+19,Valtteri Bottas,Alfa Romeo,,0,0,Abu Dhabi Grand Prix
+20,Kevin Magnussen,Haas F1 Team,,0,0,Abu Dhabi Grand Prix
+1,Max Verstappen,Red Bull,2:32:38.371,25,26,Australian Grand Prix
+2,Lewis Hamilton,Mercedes,+0.179,18,2,Australian Grand Prix
+3,Fernando Alonso,Aston Martin,+0.769,15,6,Australian Grand Prix
+4,Lance Stroll,Aston Martin,+3.082,12,1,Australian Grand Prix
+5,Sergio Pérez,Red Bull,+3.320,11,12,Australian Grand Prix
+6,Lando Norris,McLaren,+3.701,8,10,Australian Grand Prix
+7,Nico Hülkenberg,Haas F1 Team,+4.939,6,0,Australian Grand Prix
+8,Oscar Piastri,McLaren,+5.382,4,8,Australian Grand Prix
+9,Guanyu Zhou,Alfa Romeo,+5.713,2,0,Australian Grand Prix
+10,Yuki Tsunoda,AlphaTauri,+6.052,1,4,Australian Grand Prix
+11,Valtteri Bottas,Alfa Romeo,+6.513,0,0,Australian Grand Prix
+12,Carlos Sainz,Ferrari,+6.594,0,0,Australian Grand Prix
+13,Pierre Gasly,Alpine F1 Team,,0,0,Australian Grand Prix
+14,Esteban Ocon,Alpine F1 Team,,0,0,Australian Grand Prix
+15,Nyck de Vries,AlphaTauri,,0,0,Australian Grand Prix
+16,Logan Sargeant,Williams,,0,0,Australian Grand Prix
+17,Kevin Magnussen,Haas F1 Team,,0,0,Australian Grand Prix
+18,George Russell,Mercedes,,0,15,Australian Grand Prix
+19,Alexander Albon,Williams,,0,0,Australian Grand Prix
+20,Charles Leclerc,Ferrari,,0,18,Australian Grand Prix
+1,Max Verstappen,Red Bull,1:25:33.607,26,51,Austrian Grand Prix
+2,Charles Leclerc,Ferrari,+5.155,18,18,Austrian Grand Prix
+3,Sergio Pérez,Red Bull,+17.188,15,23,Austrian Grand Prix
+4,Lando Norris,McLaren,+26.327,12,18,Austrian Grand Prix
+5,Fernando Alonso,Aston Martin,+30.317,10,21,Austrian Grand Prix
+6,Carlos Sainz,Ferrari,+31.377,8,0,Austrian Grand Prix
+7,George Russell,Mercedes,+48.403,6,15,Austrian Grand Prix
+8,Lewis Hamilton,Mercedes,+49.196,4,20,Austrian Grand Prix
+9,Lance Stroll,Aston Martin,+59.043,2,13,Austrian Grand Prix
+10,Pierre Gasly,Alpine F1 Team,+1:07.667,1,0,Austrian Grand Prix
+11,Alexander Albon,Williams,+1:19.767,0,0,Austrian Grand Prix
+12,Guanyu Zhou,Alfa Romeo,,0,2,Austrian Grand Prix
+13,Logan Sargeant,Williams,,0,0,Austrian Grand Prix
+14,Esteban Ocon,Alpine F1 Team,,0,0,Austrian Grand Prix
+15,Valtteri Bottas,Alfa Romeo,,0,0,Austrian Grand Prix
+16,Oscar Piastri,McLaren,,0,12,Austrian Grand Prix
+17,Nyck de Vries,AlphaTauri,,0,0,Austrian Grand Prix
+18,Kevin Magnussen,Haas F1 Team,,0,0,Austrian Grand Prix
+19,Yuki Tsunoda,AlphaTauri,,0,5,Austrian Grand Prix
+20,Nico Hülkenberg,Haas F1 Team,,0,6,Austrian Grand Prix
+1,Sergio Pérez,Red Bull,1:32:42.436,25,38,Azerbaijan Grand Prix
+2,Max Verstappen,Red Bull,+2.137,18,77,Azerbaijan Grand Prix
+3,Charles Leclerc,Ferrari,+21.217,15,36,Azerbaijan Grand Prix
+4,Fernando Alonso,Aston Martin,+22.024,12,31,Azerbaijan Grand Prix
+5,Carlos Sainz,Ferrari,+45.491,10,8,Azerbaijan Grand Prix
+6,Lewis Hamilton,Mercedes,+46.145,8,24,Azerbaijan Grand Prix
+7,Lance Stroll,Aston Martin,+51.617,6,15,Azerbaijan Grand Prix
+8,George Russell,Mercedes,+1:14.240,5,21,Azerbaijan Grand Prix
+9,Lando Norris,McLaren,+1:20.376,2,30,Azerbaijan Grand Prix
+10,Yuki Tsunoda,AlphaTauri,+1:23.862,1,5,Azerbaijan Grand Prix
+11,Oscar Piastri,McLaren,+1:26.501,0,12,Azerbaijan Grand Prix
+12,Alexander Albon,Williams,+1:28.623,0,0,Azerbaijan Grand Prix
+13,Kevin Magnussen,Haas F1 Team,+1:29.729,0,0,Azerbaijan Grand Prix
+14,Pierre Gasly,Alpine F1 Team,+1:31.332,0,1,Azerbaijan Grand Prix
+15,Esteban Ocon,Alpine F1 Team,+1:37.794,0,0,Azerbaijan Grand Prix
+16,Logan Sargeant,Williams,+1:40.943,0,0,Azerbaijan Grand Prix
+17,Nico Hülkenberg,Haas F1 Team,,0,6,Azerbaijan Grand Prix
+18,Valtteri Bottas,Alfa Romeo,,0,0,Azerbaijan Grand Prix
+19,Guanyu Zhou,Alfa Romeo,,0,2,Azerbaijan Grand Prix
+20,Nyck de Vries,AlphaTauri,,0,0,Azerbaijan Grand Prix
+1,Max Verstappen,Red Bull,1:33:56.736,25,95,Bahrain Grand Prix
+2,Sergio Pérez,Red Bull,+11.987,18,63,Bahrain Grand Prix
+3,Fernando Alonso,Aston Martin,+38.637,15,43,Bahrain Grand Prix
+4,Carlos Sainz,Ferrari,+48.052,12,18,Bahrain Grand Prix
+5,Lewis Hamilton,Mercedes,+50.977,10,32,Bahrain Grand Prix
+6,Lance Stroll,Aston Martin,+54.502,8,21,Bahrain Grand Prix
+7,George Russell,Mercedes,+55.873,6,26,Bahrain Grand Prix
+8,Valtteri Bottas,Alfa Romeo,+1:12.647,4,0,Bahrain Grand Prix
+9,Pierre Gasly,Alpine F1 Team,+1:13.753,2,1,Bahrain Grand Prix
+10,Alexander Albon,Williams,+1:29.774,1,0,Bahrain Grand Prix
+11,Yuki Tsunoda,AlphaTauri,+1:30.870,0,6,Bahrain Grand Prix
+12,Logan Sargeant,Williams,,0,0,Bahrain Grand Prix
+13,Kevin Magnussen,Haas F1 Team,,0,0,Bahrain Grand Prix
+14,Nyck de Vries,AlphaTauri,,0,0,Bahrain Grand Prix
+15,Nico Hülkenberg,Haas F1 Team,,0,6,Bahrain Grand Prix
+16,Guanyu Zhou,Alfa Romeo,,0,2,Bahrain Grand Prix
+17,Lando Norris,McLaren,,0,32,Bahrain Grand Prix
+18,Esteban Ocon,Alpine F1 Team,,0,0,Bahrain Grand Prix
+19,Charles Leclerc,Ferrari,,0,51,Bahrain Grand Prix
+20,Oscar Piastri,McLaren,,0,12,Bahrain Grand Prix
+1,Max Verstappen,Red Bull,1:22:30.450,25,120,Belgian Grand Prix
+2,Sergio Pérez,Red Bull,+22.305,18,81,Belgian Grand Prix
+3,Charles Leclerc,Ferrari,+32.259,15,51,Belgian Grand Prix
+4,Lewis Hamilton,Mercedes,+49.671,13,42,Belgian Grand Prix
+5,Fernando Alonso,Aston Martin,+56.184,10,58,Belgian Grand Prix
+6,George Russell,Mercedes,+1:03.101,8,32,Belgian Grand Prix
+7,Lando Norris,McLaren,+1:13.719,6,32,Belgian Grand Prix
+8,Esteban Ocon,Alpine F1 Team,+1:14.719,4,0,Belgian Grand Prix
+9,Lance Stroll,Aston Martin,+1:19.340,2,29,Belgian Grand Prix
+10,Yuki Tsunoda,AlphaTauri,+1:20.221,1,6,Belgian Grand Prix
+11,Pierre Gasly,Alpine F1 Team,+1:23.084,0,3,Belgian Grand Prix
+12,Valtteri Bottas,Alfa Romeo,+1:25.191,0,4,Belgian Grand Prix
+13,Guanyu Zhou,Alfa Romeo,+1:35.441,0,2,Belgian Grand Prix
+14,Alexander Albon,Williams,+1:36.184,0,1,Belgian Grand Prix
+15,Kevin Magnussen,Haas F1 Team,+1:41.754,0,0,Belgian Grand Prix
+16,Daniel Ricciardo,AlphaTauri,+1:43.071,0,0,Belgian Grand Prix
+17,Logan Sargeant,Williams,+1:44.476,0,0,Belgian Grand Prix
+18,Nico Hülkenberg,Haas F1 Team,+1:50.450,0,6,Belgian Grand Prix
+19,Carlos Sainz,Ferrari,,0,30,Belgian Grand Prix
+20,Oscar Piastri,McLaren,,0,12,Belgian Grand Prix
+1,Max Verstappen,Red Bull,1:25:16.938,26,145,British Grand Prix
+2,Lando Norris,McLaren,+3.798,18,38,British Grand Prix
+3,Lewis Hamilton,Mercedes,+6.783,15,55,British Grand Prix
+4,Oscar Piastri,McLaren,+7.776,12,12,British Grand Prix
+5,George Russell,Mercedes,+11.206,10,40,British Grand Prix
+6,Sergio Pérez,Red Bull,+12.882,8,99,British Grand Prix
+7,Fernando Alonso,Aston Martin,+17.193,6,68,British Grand Prix
+8,Alexander Albon,Williams,+17.878,4,1,British Grand Prix
+9,Charles Leclerc,Ferrari,+18.689,2,66,British Grand Prix
+10,Carlos Sainz,Ferrari,+19.448,1,30,British Grand Prix
+11,Logan Sargeant,Williams,+23.632,0,0,British Grand Prix
+12,Valtteri Bottas,Alfa Romeo,+25.830,0,4,British Grand Prix
+13,Nico Hülkenberg,Haas F1 Team,+26.663,0,6,British Grand Prix
+14,Lance Stroll,Aston Martin,+27.483,0,31,British Grand Prix
+15,Guanyu Zhou,Alfa Romeo,+29.820,0,2,British Grand Prix
+16,Yuki Tsunoda,AlphaTauri,+31.225,0,7,British Grand Prix
+17,Nyck de Vries,AlphaTauri,+33.128,0,0,British Grand Prix
+18,Pierre Gasly,Alpine F1 Team,,0,3,British Grand Prix
+19,Kevin Magnussen,Haas F1 Team,,0,0,British Grand Prix
+20,Esteban Ocon,Alpine F1 Team,,0,4,British Grand Prix
+1,Max Verstappen,Red Bull,1:33:58.348,25,171,Canadian Grand Prix
+2,Fernando Alonso,Aston Martin,+9.570,18,74,Canadian Grand Prix
+3,Lewis Hamilton,Mercedes,+4.598,15,70,Canadian Grand Prix
+4,Charles Leclerc,Ferrari,+18.648,12,68,Canadian Grand Prix
+5,Carlos Sainz,Ferrari,+21.540,10,31,Canadian Grand Prix
+6,Sergio Pérez,Red Bull,+51.028,9,107,Canadian Grand Prix
+7,Alexander Albon,Williams,+1:00.813,6,5,Canadian Grand Prix
+8,Esteban Ocon,Alpine F1 Team,+1:01.692,4,4,Canadian Grand Prix
+9,Lance Stroll,Aston Martin,+1:04.402,2,31,Canadian Grand Prix
+10,Valtteri Bottas,Alfa Romeo,+1:04.432,1,4,Canadian Grand Prix
+11,Oscar Piastri,McLaren,+1:05.101,0,24,Canadian Grand Prix
+12,Pierre Gasly,Alpine F1 Team,+1:05.249,0,3,Canadian Grand Prix
+13,Lando Norris,McLaren,+1:08.363,0,56,Canadian Grand Prix
+14,Yuki Tsunoda,AlphaTauri,+1:13.423,0,7,Canadian Grand Prix
+15,Nico Hülkenberg,Haas F1 Team,,0,6,Canadian Grand Prix
+16,Guanyu Zhou,Alfa Romeo,,0,2,Canadian Grand Prix
+17,Kevin Magnussen,Haas F1 Team,,0,0,Canadian Grand Prix
+18,Nyck de Vries,AlphaTauri,,0,0,Canadian Grand Prix
+19,George Russell,Mercedes,,0,50,Canadian Grand Prix
+20,Logan Sargeant,Williams,,0,0,Canadian Grand Prix
+1,Max Verstappen,Red Bull,2:24:04.411,25,196,Dutch Grand Prix
+2,Fernando Alonso,Aston Martin,+3.744,19,92,Dutch Grand Prix
+3,Pierre Gasly,Alpine F1 Team,+7.058,15,3,Dutch Grand Prix
+4,Sergio Pérez,Red Bull,+10.068,12,116,Dutch Grand Prix
+5,Carlos Sainz,Ferrari,+12.541,10,41,Dutch Grand Prix
+6,Lewis Hamilton,Mercedes,+13.209,8,85,Dutch Grand Prix
+7,Lando Norris,McLaren,+13.232,6,56,Dutch Grand Prix
+8,Alexander Albon,Williams,+15.155,4,11,Dutch Grand Prix
+9,Oscar Piastri,McLaren,+16.580,2,24,Dutch Grand Prix
+10,Esteban Ocon,Alpine F1 Team,+18.346,1,8,Dutch Grand Prix
+11,Lance Stroll,Aston Martin,+20.087,0,33,Dutch Grand Prix
+12,Nico Hülkenberg,Haas F1 Team,+20.840,0,6,Dutch Grand Prix
+13,Liam Lawson,AlphaTauri,+26.147,0,0,Dutch Grand Prix
+14,Valtteri Bottas,Alfa Romeo,+27.388,0,5,Dutch Grand Prix
+15,Yuki Tsunoda,AlphaTauri,+29.893,0,7,Dutch Grand Prix
+16,Kevin Magnussen,Haas F1 Team,+31.410,0,0,Dutch Grand Prix
+17,George Russell,Mercedes,+55.754,0,50,Dutch Grand Prix
+18,Guanyu Zhou,Alfa Romeo,,0,2,Dutch Grand Prix
+19,Charles Leclerc,Ferrari,,0,80,Dutch Grand Prix
+20,Logan Sargeant,Williams,,0,0,Dutch Grand Prix
+1,Max Verstappen,Red Bull,1:38:08.634,26,221,Hungarian Grand Prix
+2,Lando Norris,McLaren,+33.731,18,62,Hungarian Grand Prix
+3,Sergio Pérez,Red Bull,+37.603,15,128,Hungarian Grand Prix
+4,Lewis Hamilton,Mercedes,+39.134,12,93,Hungarian Grand Prix
+5,Oscar Piastri,McLaren,+1:02.572,10,26,Hungarian Grand Prix
+6,George Russell,Mercedes,+1:05.825,8,50,Hungarian Grand Prix
+7,Charles Leclerc,Ferrari,+1:10.317,6,80,Hungarian Grand Prix
+8,Carlos Sainz,Ferrari,+1:11.073,4,51,Hungarian Grand Prix
+9,Fernando Alonso,Aston Martin,+1:15.709,2,111,Hungarian Grand Prix
+10,Lance Stroll,Aston Martin,,1,33,Hungarian Grand Prix
+11,Alexander Albon,Williams,,0,15,Hungarian Grand Prix
+12,Valtteri Bottas,Alfa Romeo,,0,5,Hungarian Grand Prix
+13,Daniel Ricciardo,AlphaTauri,,0,0,Hungarian Grand Prix
+14,Nico Hülkenberg,Haas F1 Team,,0,6,Hungarian Grand Prix
+15,Yuki Tsunoda,AlphaTauri,,0,7,Hungarian Grand Prix
+16,Guanyu Zhou,Alfa Romeo,,0,2,Hungarian Grand Prix
+17,Kevin Magnussen,Haas F1 Team,,0,0,Hungarian Grand Prix
+18,Logan Sargeant,Williams,,0,0,Hungarian Grand Prix
+19,Esteban Ocon,Alpine F1 Team,,0,9,Hungarian Grand Prix
+20,Pierre Gasly,Alpine F1 Team,,0,18,Hungarian Grand Prix
+1,Max Verstappen,Red Bull,1:13:41.143,25,247,Italian Grand Prix
+2,Sergio Pérez,Red Bull,+6.064,18,143,Italian Grand Prix
+3,Carlos Sainz,Ferrari,+11.193,15,55,Italian Grand Prix
+4,Charles Leclerc,Ferrari,+11.377,12,86,Italian Grand Prix
+5,George Russell,Mercedes,+23.028,10,58,Italian Grand Prix
+6,Lewis Hamilton,Mercedes,+42.679,8,105,Italian Grand Prix
+7,Alexander Albon,Williams,+45.106,6,15,Italian Grand Prix
+8,Lando Norris,McLaren,+45.449,4,80,Italian Grand Prix
+9,Fernando Alonso,Aston Martin,+46.294,2,113,Italian Grand Prix
+10,Valtteri Bottas,Alfa Romeo,+1:04.056,1,5,Italian Grand Prix
+11,Liam Lawson,AlphaTauri,+1:10.638,0,0,Italian Grand Prix
+12,Oscar Piastri,McLaren,+1:13.074,0,36,Italian Grand Prix
+13,Logan Sargeant,Williams,+1:18.557,0,0,Italian Grand Prix
+14,Guanyu Zhou,Alfa Romeo,+1:20.164,0,2,Italian Grand Prix
+15,Pierre Gasly,Alpine F1 Team,+1:22.510,0,18,Italian Grand Prix
+16,Lance Stroll,Aston Martin,+1:27.266,0,34,Italian Grand Prix
+17,Nico Hülkenberg,Haas F1 Team,,0,6,Italian Grand Prix
+18,Kevin Magnussen,Haas F1 Team,,0,0,Italian Grand Prix
+19,Esteban Ocon,Alpine F1 Team,,0,9,Italian Grand Prix
+20,Yuki Tsunoda,AlphaTauri,,0,7,Italian Grand Prix
+1,Max Verstappen,Red Bull,1:30:58.421,26,272,Japanese Grand Prix
+2,Lando Norris,McLaren,+19.387,18,84,Japanese Grand Prix
+3,Oscar Piastri,McLaren,+36.494,15,36,Japanese Grand Prix
+4,Charles Leclerc,Ferrari,+43.998,12,98,Japanese Grand Prix
+5,Lewis Hamilton,Mercedes,+49.376,10,113,Japanese Grand Prix
+6,Carlos Sainz,Ferrari,+50.221,8,70,Japanese Grand Prix
+7,George Russell,Mercedes,+57.659,6,68,Japanese Grand Prix
+8,Fernando Alonso,Aston Martin,+1:14.725,4,115,Japanese Grand Prix
+9,Esteban Ocon,Alpine F1 Team,+1:19.678,2,9,Japanese Grand Prix
+10,Pierre Gasly,Alpine F1 Team,+1:23.155,1,18,Japanese Grand Prix
+11,Liam Lawson,AlphaTauri,,0,0,Japanese Grand Prix
+12,Yuki Tsunoda,AlphaTauri,,0,7,Japanese Grand Prix
+13,Guanyu Zhou,Alfa Romeo,,0,2,Japanese Grand Prix
+14,Nico Hülkenberg,Haas F1 Team,,0,6,Japanese Grand Prix
+15,Kevin Magnussen,Haas F1 Team,,0,0,Japanese Grand Prix
+16,Alexander Albon,Williams,,0,21,Japanese Grand Prix
+17,Logan Sargeant,Williams,,0,0,Japanese Grand Prix
+18,Lance Stroll,Aston Martin,,0,34,Japanese Grand Prix
+19,Sergio Pérez,Red Bull,,0,161,Japanese Grand Prix
+20,Valtteri Bottas,Alfa Romeo,,0,6,Japanese Grand Prix
+1,Max Verstappen,Red Bull,1:29:08.289,25,298,Las Vegas Grand Prix
+2,Charles Leclerc,Ferrari,+2.070,18,110,Las Vegas Grand Prix
+3,Sergio Pérez,Red Bull,+2.241,15,161,Las Vegas Grand Prix
+4,Esteban Ocon,Alpine F1 Team,+18.665,12,11,Las Vegas Grand Prix
+5,Lance Stroll,Aston Martin,+20.067,10,34,Las Vegas Grand Prix
+6,Carlos Sainz,Ferrari,+20.834,8,78,Las Vegas Grand Prix
+7,Lewis Hamilton,Mercedes,+21.755,6,123,Las Vegas Grand Prix
+8,George Russell,Mercedes,+23.091,4,74,Las Vegas Grand Prix
+9,Fernando Alonso,Aston Martin,+25.964,2,119,Las Vegas Grand Prix
+10,Oscar Piastri,McLaren,+29.496,2,51,Las Vegas Grand Prix
+11,Pierre Gasly,Alpine F1 Team,+34.270,0,19,Las Vegas Grand Prix
+12,Alexander Albon,Williams,+43.398,0,21,Las Vegas Grand Prix
+13,Kevin Magnussen,Haas F1 Team,+44.825,0,0,Las Vegas Grand Prix
+14,Daniel Ricciardo,AlphaTauri,+48.525,0,0,Las Vegas Grand Prix
+15,Guanyu Zhou,Alfa Romeo,+50.162,0,2,Las Vegas Grand Prix
+16,Logan Sargeant,Williams,+50.882,0,0,Las Vegas Grand Prix
+17,Valtteri Bottas,Alfa Romeo,+1:25.350,0,6,Las Vegas Grand Prix
+18,Yuki Tsunoda,AlphaTauri,,0,7,Las Vegas Grand Prix
+19,Nico Hülkenberg,Haas F1 Team,,0,6,Las Vegas Grand Prix
+20,Lando Norris,McLaren,,0,102,Las Vegas Grand Prix
+1,Max Verstappen,Red Bull,2:02:30.814,25,323,Mexico City Grand Prix
+2,Lewis Hamilton,Mercedes,+13.875,19,129,Mexico City Grand Prix
+3,Charles Leclerc,Ferrari,+23.124,15,128,Mexico City Grand Prix
+4,Carlos Sainz,Ferrari,+27.154,12,86,Mexico City Grand Prix
+5,Lando Norris,McLaren,+33.266,10,102,Mexico City Grand Prix
+6,George Russell,Mercedes,+41.020,8,78,Mexico City Grand Prix
+7,Daniel Ricciardo,AlphaTauri,+41.570,6,0,Mexico City Grand Prix
+8,Oscar Piastri,McLaren,+43.104,4,53,Mexico City Grand Prix
+9,Alexander Albon,Williams,+48.573,2,21,Mexico City Grand Prix
+10,Esteban Ocon,Alpine F1 Team,+1:02.879,1,23,Mexico City Grand Prix
+11,Pierre Gasly,Alpine F1 Team,+1:06.208,0,19,Mexico City Grand Prix
+12,Yuki Tsunoda,AlphaTauri,+1:18.982,0,7,Mexico City Grand Prix
+13,Nico Hülkenberg,Haas F1 Team,+1:20.309,0,6,Mexico City Grand Prix
+14,Guanyu Zhou,Alfa Romeo,+1:21.676,0,2,Mexico City Grand Prix
+15,Valtteri Bottas,Alfa Romeo,+1:25.597,0,6,Mexico City Grand Prix
+16,Logan Sargeant,Williams,,0,0,Mexico City Grand Prix
+17,Lance Stroll,Aston Martin,,0,44,Mexico City Grand Prix
+18,Fernando Alonso,Aston Martin,,0,121,Mexico City Grand Prix
+19,Kevin Magnussen,Haas F1 Team,,0,0,Mexico City Grand Prix
+20,Sergio Pérez,Red Bull,,0,176,Mexico City Grand Prix
+1,Max Verstappen,Red Bull,1:27:38.241,26,348,Miami Grand Prix
+2,Sergio Pérez,Red Bull,+5.384,18,176,Miami Grand Prix
+3,Fernando Alonso,Aston Martin,+26.305,15,121,Miami Grand Prix
+4,George Russell,Mercedes,+33.229,12,86,Miami Grand Prix
+5,Carlos Sainz,Ferrari,+42.511,10,98,Miami Grand Prix
+6,Lewis Hamilton,Mercedes,+51.249,8,148,Miami Grand Prix
+7,Charles Leclerc,Ferrari,+52.988,6,143,Miami Grand Prix
+8,Pierre Gasly,Alpine F1 Team,+55.670,4,19,Miami Grand Prix
+9,Esteban Ocon,Alpine F1 Team,+58.123,2,24,Miami Grand Prix
+10,Kevin Magnussen,Haas F1 Team,+1:02.945,1,0,Miami Grand Prix
+11,Yuki Tsunoda,AlphaTauri,+1:04.309,0,7,Miami Grand Prix
+12,Lance Stroll,Aston Martin,+1:04.754,0,44,Miami Grand Prix
+13,Valtteri Bottas,Alfa Romeo,+1:11.637,0,6,Miami Grand Prix
+14,Alexander Albon,Williams,+1:12.861,0,23,Miami Grand Prix
+15,Nico Hülkenberg,Haas F1 Team,+1:14.950,0,6,Miami Grand Prix
+16,Guanyu Zhou,Alfa Romeo,+1:18.440,0,2,Miami Grand Prix
+17,Lando Norris,McLaren,+1:27.717,0,112,Miami Grand Prix
+18,Nyck de Vries,AlphaTauri,+1:28.949,0,0,Miami Grand Prix
+19,Oscar Piastri,McLaren,,0,57,Miami Grand Prix
+20,Logan Sargeant,Williams,,0,0,Miami Grand Prix
+1,Max Verstappen,Red Bull,1:48:51.980,25,374,Monaco Grand Prix
+2,Fernando Alonso,Aston Martin,+27.921,18,136,Monaco Grand Prix
+3,Esteban Ocon,Alpine F1 Team,+36.990,15,26,Monaco Grand Prix
+4,Lewis Hamilton,Mercedes,+39.062,13,156,Monaco Grand Prix
+5,George Russell,Mercedes,+56.284,10,98,Monaco Grand Prix
+6,Charles Leclerc,Ferrari,+1:01.890,8,149,Monaco Grand Prix
+7,Pierre Gasly,Alpine F1 Team,+1:02.362,6,23,Monaco Grand Prix
+8,Carlos Sainz,Ferrari,+1:03.391,4,108,Monaco Grand Prix
+9,Lando Norris,McLaren,,2,112,Monaco Grand Prix
+10,Oscar Piastri,McLaren,,1,57,Monaco Grand Prix
+11,Valtteri Bottas,Alfa Romeo,,0,6,Monaco Grand Prix
+12,Nyck de Vries,AlphaTauri,,0,0,Monaco Grand Prix
+13,Guanyu Zhou,Alfa Romeo,,0,2,Monaco Grand Prix
+14,Alexander Albon,Williams,,0,23,Monaco Grand Prix
+15,Yuki Tsunoda,AlphaTauri,,0,7,Monaco Grand Prix
+16,Sergio Pérez,Red Bull,,0,194,Monaco Grand Prix
+17,Nico Hülkenberg,Haas F1 Team,,0,6,Monaco Grand Prix
+18,Logan Sargeant,Williams,,0,0,Monaco Grand Prix
+19,Kevin Magnussen,Haas F1 Team,,0,1,Monaco Grand Prix
+20,Lance Stroll,Aston Martin,,0,44,Monaco Grand Prix
+1,Max Verstappen,Red Bull,1:27:39.168,26,399,Qatar Grand Prix
+2,Oscar Piastri,McLaren,+4.833,18,58,Qatar Grand Prix
+3,Lando Norris,McLaren,+5.969,15,114,Qatar Grand Prix
+4,George Russell,Mercedes,+34.119,12,108,Qatar Grand Prix
+5,Charles Leclerc,Ferrari,+38.976,10,157,Qatar Grand Prix
+6,Fernando Alonso,Aston Martin,+49.032,8,154,Qatar Grand Prix
+7,Esteban Ocon,Alpine F1 Team,+1:02.390,6,41,Qatar Grand Prix
+8,Valtteri Bottas,Alfa Romeo,+1:06.563,4,6,Qatar Grand Prix
+9,Guanyu Zhou,Alfa Romeo,+1:16.127,2,2,Qatar Grand Prix
+10,Sergio Pérez,Red Bull,+1:20.181,1,194,Qatar Grand Prix
+11,Lance Stroll,Aston Martin,+1:21.652,0,44,Qatar Grand Prix
+12,Pierre Gasly,Alpine F1 Team,+1:22.300,0,29,Qatar Grand Prix
+13,Alexander Albon,Williams,+1:31.014,0,23,Qatar Grand Prix
+14,Kevin Magnussen,Haas F1 Team,,0,1,Qatar Grand Prix
+15,Yuki Tsunoda,AlphaTauri,,0,7,Qatar Grand Prix
+16,Nico Hülkenberg,Haas F1 Team,,0,6,Qatar Grand Prix
+17,Liam Lawson,AlphaTauri,,0,0,Qatar Grand Prix
+18,Logan Sargeant,Williams,,0,0,Qatar Grand Prix
+19,Lewis Hamilton,Mercedes,,0,169,Qatar Grand Prix
+20,Carlos Sainz,Ferrari,,0,112,Qatar Grand Prix
+1,Sergio Pérez,Red Bull,1:21:14.894,25,195,Saudi Arabian Grand Prix
+2,Max Verstappen,Red Bull,+5.355,19,425,Saudi Arabian Grand Prix
+3,Fernando Alonso,Aston Martin,+20.728,15,162,Saudi Arabian Grand Prix
+4,George Russell,Mercedes,+25.866,12,120,Saudi Arabian Grand Prix
+5,Lewis Hamilton,Mercedes,+31.065,10,169,Saudi Arabian Grand Prix
+6,Carlos Sainz,Ferrari,+35.876,8,112,Saudi Arabian Grand Prix
+7,Charles Leclerc,Ferrari,+43.162,6,167,Saudi Arabian Grand Prix
+8,Esteban Ocon,Alpine F1 Team,+52.832,4,47,Saudi Arabian Grand Prix
+9,Pierre Gasly,Alpine F1 Team,+54.747,2,29,Saudi Arabian Grand Prix
+10,Kevin Magnussen,Haas F1 Team,+1:04.826,1,1,Saudi Arabian Grand Prix
+11,Yuki Tsunoda,AlphaTauri,+1:07.494,0,7,Saudi Arabian Grand Prix
+12,Nico Hülkenberg,Haas F1 Team,+1:10.588,0,6,Saudi Arabian Grand Prix
+13,Guanyu Zhou,Alfa Romeo,+1:16.060,0,4,Saudi Arabian Grand Prix
+14,Nyck de Vries,AlphaTauri,+1:17.478,0,0,Saudi Arabian Grand Prix
+15,Oscar Piastri,McLaren,+1:25.021,0,76,Saudi Arabian Grand Prix
+16,Logan Sargeant,Williams,+1:26.293,0,0,Saudi Arabian Grand Prix
+17,Lando Norris,McLaren,+1:26.445,0,129,Saudi Arabian Grand Prix
+18,Valtteri Bottas,Alfa Romeo,,0,10,Saudi Arabian Grand Prix
+19,Alexander Albon,Williams,,0,23,Saudi Arabian Grand Prix
+20,Lance Stroll,Aston Martin,,0,44,Saudi Arabian Grand Prix
+1,Carlos Sainz,Ferrari,1:46:37.418,25,120,Singapore Grand Prix
+2,Lando Norris,McLaren,+0.812,18,129,Singapore Grand Prix
+3,Lewis Hamilton,Mercedes,+1.269,16,179,Singapore Grand Prix
+4,Charles Leclerc,Ferrari,+21.177,12,173,Singapore Grand Prix
+5,Max Verstappen,Red Bull,+21.441,10,444,Singapore Grand Prix
+6,Pierre Gasly,Alpine F1 Team,+38.441,8,31,Singapore Grand Prix
+7,Oscar Piastri,McLaren,+41.479,6,76,Singapore Grand Prix
+8,Sergio Pérez,Red Bull,+59.534,4,220,Singapore Grand Prix
+9,Liam Lawson,AlphaTauri,+1:05.918,2,0,Singapore Grand Prix
+10,Kevin Magnussen,Haas F1 Team,+1:12.116,1,2,Singapore Grand Prix
+11,Alexander Albon,Williams,+1:13.417,0,23,Singapore Grand Prix
+12,Guanyu Zhou,Alfa Romeo,+1:23.649,0,4,Singapore Grand Prix
+13,Nico Hülkenberg,Haas F1 Team,+1:26.201,0,6,Singapore Grand Prix
+14,Logan Sargeant,Williams,+1:26.889,0,0,Singapore Grand Prix
+15,Fernando Alonso,Aston Martin,+1:27.603,0,177,Singapore Grand Prix
+16,George Russell,Mercedes,,0,132,Singapore Grand Prix
+17,Valtteri Bottas,Alfa Romeo,,0,10,Singapore Grand Prix
+18,Esteban Ocon,Alpine F1 Team,,0,51,Singapore Grand Prix
+19,Yuki Tsunoda,AlphaTauri,,0,7,Singapore Grand Prix
+20,Lance Stroll,Aston Martin,,0,44,Singapore Grand Prix
+1,Max Verstappen,Red Bull,1:27:57.940,26,454,Spanish Grand Prix
+2,Lewis Hamilton,Mercedes,+24.090,18,195,Spanish Grand Prix
+3,George Russell,Mercedes,+32.389,15,132,Spanish Grand Prix
+4,Sergio Pérez,Red Bull,+35.812,12,224,Spanish Grand Prix
+5,Carlos Sainz,Ferrari,+45.698,10,145,Spanish Grand Prix
+6,Lance Stroll,Aston Martin,+1:03.320,8,44,Spanish Grand Prix
+7,Fernando Alonso,Aston Martin,+1:04.127,6,177,Spanish Grand Prix
+8,Esteban Ocon,Alpine F1 Team,+1:09.242,4,51,Spanish Grand Prix
+9,Guanyu Zhou,Alfa Romeo,+1:11.878,2,4,Spanish Grand Prix
+10,Pierre Gasly,Alpine F1 Team,+1:13.530,1,39,Spanish Grand Prix
+11,Charles Leclerc,Ferrari,+1:14.419,0,185,Spanish Grand Prix
+12,Yuki Tsunoda,AlphaTauri,+1:15.416,0,7,Spanish Grand Prix
+13,Oscar Piastri,McLaren,,0,82,Spanish Grand Prix
+14,Nyck de Vries,AlphaTauri,,0,0,Spanish Grand Prix
+15,Nico Hülkenberg,Haas F1 Team,,0,6,Spanish Grand Prix
+16,Alexander Albon,Williams,,0,23,Spanish Grand Prix
+17,Lando Norris,McLaren,,0,147,Spanish Grand Prix
+18,Kevin Magnussen,Haas F1 Team,,0,3,Spanish Grand Prix
+19,Valtteri Bottas,Alfa Romeo,,0,10,Spanish Grand Prix
+20,Logan Sargeant,Williams,,0,0,Spanish Grand Prix
+1,Max Verstappen,Red Bull,1:56:48.894,25,480,São Paulo Grand Prix
+2,Lando Norris,McLaren,+8.277,19,147,São Paulo Grand Prix
+3,Fernando Alonso,Aston Martin,+34.155,15,183,São Paulo Grand Prix
+4,Sergio Pérez,Red Bull,+34.208,12,236,São Paulo Grand Prix
+5,Lance Stroll,Aston Martin,+40.845,10,52,São Paulo Grand Prix
+6,Carlos Sainz,Ferrari,+50.188,8,155,São Paulo Grand Prix
+7,Pierre Gasly,Alpine F1 Team,+56.093,6,40,São Paulo Grand Prix
+8,Lewis Hamilton,Mercedes,+1:02.859,4,213,São Paulo Grand Prix
+9,Yuki Tsunoda,AlphaTauri,+1:09.880,2,7,São Paulo Grand Prix
+10,Esteban Ocon,Alpine F1 Team,,1,55,São Paulo Grand Prix
+11,Logan Sargeant,Williams,,0,0,São Paulo Grand Prix
+12,Nico Hülkenberg,Haas F1 Team,,0,6,São Paulo Grand Prix
+13,Daniel Ricciardo,AlphaTauri,,0,6,São Paulo Grand Prix
+14,Oscar Piastri,McLaren,,0,82,São Paulo Grand Prix
+15,George Russell,Mercedes,,0,147,São Paulo Grand Prix
+16,Valtteri Bottas,Alfa Romeo,,0,10,São Paulo Grand Prix
+17,Guanyu Zhou,Alfa Romeo,,0,6,São Paulo Grand Prix
+18,Kevin Magnussen,Haas F1 Team,,0,3,São Paulo Grand Prix
+19,Alexander Albon,Williams,,0,23,São Paulo Grand Prix
+20,Charles Leclerc,Ferrari,,0,185,São Paulo Grand Prix
+1,Max Verstappen,Red Bull,1:35:21.362,25,505,United States Grand Prix
+2,Lando Norris,McLaren,+10.730,18,166,United States Grand Prix
+3,Carlos Sainz,Ferrari,+15.134,15,163,United States Grand Prix
+4,Sergio Pérez,Red Bull,+18.460,12,248,United States Grand Prix
+5,George Russell,Mercedes,+24.999,10,147,United States Grand Prix
+6,Pierre Gasly,Alpine F1 Team,+47.996,8,46,United States Grand Prix
+7,Lance Stroll,Aston Martin,+48.696,6,62,United States Grand Prix
+8,Yuki Tsunoda,AlphaTauri,+1:14.385,5,9,United States Grand Prix
+9,Alexander Albon,Williams,+1:26.714,2,23,United States Grand Prix
+10,Logan Sargeant,Williams,+1:27.998,1,0,United States Grand Prix
+11,Nico Hülkenberg,Haas F1 Team,+1:29.904,0,6,United States Grand Prix
+12,Valtteri Bottas,Alfa Romeo,+1:38.601,0,10,United States Grand Prix
+13,Guanyu Zhou,Alfa Romeo,,0,6,United States Grand Prix
+14,Kevin Magnussen,Haas F1 Team,,0,3,United States Grand Prix
+15,Daniel Ricciardo,AlphaTauri,,0,6,United States Grand Prix
+16,Fernando Alonso,Aston Martin,,0,198,United States Grand Prix
+17,Oscar Piastri,McLaren,,0,82,United States Grand Prix
+18,Esteban Ocon,Alpine F1 Team,,0,56,United States Grand Prix
+19,Lewis Hamilton,Mercedes,,0,217,United States Grand Prix
+20,Charles Leclerc,Ferrari,,0,185,United States Grand Prix
