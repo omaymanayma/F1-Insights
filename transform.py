@@ -10,6 +10,7 @@ def transform_race_results(season):
 
     all_races = []
     cumulative_points = {}
+    podiums = []  # Liste pour stocker les podiums
 
     # Parcourir tous les fichiers CSV dans le dossier
     for file_name in sorted(os.listdir(folder)):
@@ -27,6 +28,11 @@ def transform_race_results(season):
             df["Race"] = race_name
             all_races.append(df)
 
+            # Ajouter les podiums (top 3) pour chaque course
+            top_3 = df.head(3)  # Les 3 premiers
+            for position, row in top_3.iterrows():
+                podiums.append([race_name, row["Driver"], position + 1, row["Constructor"], row["Time"]])
+
     # Fusionner toutes les courses
     full_season = pd.concat(all_races, ignore_index=True)
 
@@ -34,6 +40,11 @@ def transform_race_results(season):
     output_file = f"full_season_{season}.csv"
     full_season.to_csv(output_file, index=False)
     print(f"Fichier transformé sauvegardé : {output_file}")
+
+    # Analyse des podiums
+    df_podiums = pd.DataFrame(podiums, columns=["Race", "Driver", "Position", "Constructor", "Time"])
+    df_podiums.to_csv(f"podiums_{season}.csv", index=False)
+    print(f"Fichier des podiums sauvegardé : podiums_{season}.csv")
 
 # Exemple d'utilisation
 if __name__ == "__main__":
